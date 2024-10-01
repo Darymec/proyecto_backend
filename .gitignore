@@ -1,0 +1,12 @@
+# Ignorar la carpeta node_modules
+/node_modules
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Ignorar el archivo de bloqueos
+package-lock.json
